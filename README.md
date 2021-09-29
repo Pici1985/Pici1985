@@ -4,16 +4,15 @@
 
 I'm a self-taught developer, who really enjoys building beautiful web pages be that in plain HTML/CSS, with WordPress, Angular, or any other interesting technology.  If you would like to find out more about me here's my Portfolio Page. 
 
-https://balazsferencz.co.uk   
+My favourite technologies are: HTML / CSS / JAVASCRIPT / TYPESCRIPT / ANGULAR 
 
-My favourite technologies: HTML / CSS / JAVASCRIPT / TYPESCRIPT / ANGULAR 
+- 🔭 I’m currently working on ... my Blog which is going to go live soon...:) 
+- 👀 I’m most interested in ... the Angular / Firebase combo at the moment
+- 🌱 I’m currently learning ... Full Stack Web Development with Angular Specialization by The Hong Kong University of Science and Technology 
+- 💞️ I’m looking to collaborate on ... any interesting project. 
+- 📫 How to reach me ... all my contacts can be found on my Portfolio page...
 
-- 🔭 I’m currently working on this page. 
-- 👋 Hi, I’m @Pici1985
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+https://balazsferencz.co.uk 
 
 
 
