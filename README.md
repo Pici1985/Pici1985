@@ -8,9 +8,9 @@ https://balazsferencz.co.uk
 
 My favourite technologies are: HTML / CSS / JAVASCRIPT / TYPESCRIPT / ANGULAR 
 
-- 🔭 I’m currently working on ... my Blog which is going to go live soon...:) 
-- 👀 I’m most interested in ... the Angular / Firebase combo at the moment
-- 🌱 I’m currently learning ... Full Stack Web Development with Angular Specialization by The Hong Kong University of Science and Technology 
+- 🔭 I’m currently working on ... a BerberShop project with a small team of students...:) 
+- 👀 I’m most interested in ... the Angular / Firebase combo at the moment also Azure
+- 🌱 I’m currently learning ... about Microsoft Azure in prepataration for the AZ-900 exam
 - 💞️ I’m looking to collaborate on ... any interesting project. 
 - 📫 How to reach me ... all my contacts can be found on my Portfolio page...
 
